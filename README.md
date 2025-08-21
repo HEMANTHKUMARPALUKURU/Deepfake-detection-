@@ -48,13 +48,7 @@ Visualization: Matplotlib, Seaborn
 
 ⚙️ Installation & Usage
 
-1️⃣ Clone the repository
-
-git clone https://github.com/your-username/deepfake-tweet-detection.git
-cd deepfake-tweet-detection
-
-
-2️⃣ Install dependencies
+1️⃣ Install dependencies
 
 pip install -r requirements.txt
 
